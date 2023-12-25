@@ -1,5 +1,5 @@
 ### Hi I'm samehada 👋
-<hr>
+___
 <p align="left">
   <a href="https://github.com/same0216/same0216/">
     <img src="https://komarev.com/ghpvc/?username=same0216" alt="same0216" />
